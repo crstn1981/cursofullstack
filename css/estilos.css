@@ -1,0 +1,18 @@
+body {
+    margin:16px;
+}
+div {
+    display: inline-block;
+    color:yellow;
+    background: red;  
+    height: 300px;
+    width: 300px; 
+    font-size: 48px;
+    text-shadow: 0px 0px 4px #a6a6a6;
+    margin: 4px;
+}
+.div-negro{
+    color:white;
+    background: black;  
+    text-shadow: 0px 0px 0px black;
+}

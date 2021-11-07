@@ -1,0 +1,12 @@
+.fondo {
+    background-image: linear-gradient(rgb(0,0,0,.5),rgb(0,0,0,.5)) , url(../img/ba1.jpg);
+    background-size: 100%;
+    background-position-y:-9rem;
+}
+.punteado {
+    text-decoration-style: dotted;
+}
+
+.degradado {
+    background: linear-gradient(to right, rgb(28, 54, 67), rgb(30, 83, 114));
+}
