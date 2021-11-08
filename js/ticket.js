@@ -25,5 +25,5 @@ function calcularTotal()
             break;
     } 
     total = cantEntradas.value * precioEntrada
-    muestraTotal.innerHTML = 'Precio a Pagar: $' + parseInt(total)
+    muestraTotal.innerHTML = 'Total a Pagar: $' + parseInt(total)
 }
